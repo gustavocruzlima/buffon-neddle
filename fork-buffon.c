@@ -69,10 +69,7 @@ while (L<=1){
             if(x<=Xmax){
                 n=n+1;
             } /* Se x é menor ou igual a Xmax, então a agulha cruzou a reta */
-            
-            //fprintf(arqN, "%.0f\n", N);
-            //fprintf(arqteta, "%3.6f\n", teta);
-            //fprintf(arqx, "%3.6f\n", x);
+
         }
 
         i=i+1;
